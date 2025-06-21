@@ -8,10 +8,14 @@
 
 ## General KPIs
 
-What is the total sales revenue over time?.
+What is the total sales revenue over time?
+
 Which country or region generated the most sales?
+
 When are the peak sales months or seasons?
+
 Which coffee type is contributing maximum to the sales?
+
 Do Loyalty cards/subscriptions increase the sales of coffee ?
 
 ## Process
